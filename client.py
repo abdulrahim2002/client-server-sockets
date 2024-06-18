@@ -2,10 +2,6 @@
 2024 (C) Abdul Rahim, All rights reserved
 
 v1: only listens to client and logs its 
-The role of the server is to: 
-- recieve the data.json file. 
-- Execute report-generator.jar via cmd interface, get the stderr if any.
-- If successfull, return the file, else return the error message.
 """
 
 import socket
